@@ -1,0 +1,7 @@
+.footer__social-icon {
+  transition: opacity 1s linear;
+}
+
+.footer__social-icon:hover {
+  opacity: .3;
+}
